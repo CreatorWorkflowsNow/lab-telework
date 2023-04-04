@@ -1,6 +1,6 @@
 # Telework Lab
 
-[![pages-build-deployment](https://github.com/CreatorWorkflowsNow/lab-telework/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/CreatorWorkflowsNow/lab-telework/actions/workflows/pages/pages-build-deployment)
+[![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/CreatorWorkflowsNow/lab-telework/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/CreatorWorkflowsNow/lab-telework/actions/workflows/jekyll-gh-pages.yml)
 
 ## Table of contents
 - [Telework Lab](#telework-lab)
